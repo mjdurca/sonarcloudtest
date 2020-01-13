@@ -1,0 +1,7 @@
+organization=ads4a
+projectKey=mjdurca_sonarcloudtest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3982
+dashboardUrl=https://sonarcloud.io/dashboard?id=mjdurca_sonarcloudtest
+ceTaskId=AW-g8Pq4fP0VHmOVWPHp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-g8Pq4fP0VHmOVWPHp
