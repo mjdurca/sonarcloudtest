@@ -6,7 +6,16 @@
 
     <groupId>ca.aadtest</groupId>
     <artifactId>cameltest</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>testcomponent</module>
+    </modules>
 
-
+    <properties>
+        <sonar.projectKey>mjdurca_sonarcloudtest</sonar.projectKey>
+        <sonar.organization>ads4a</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>aeacdb50d5c93a9c6fdf56263bfa571ab0334cae</sonar.login>
+    </properties>
 </project>
